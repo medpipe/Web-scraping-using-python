@@ -39,7 +39,6 @@ Pandas – to structure and analyze data
 
 ## 👤 Author
 
-Mohamed
-Data Analyst
+Mohamed - Data Analyst
 
 Feel free to contribute or suggest improvements 😊
